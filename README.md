@@ -28,7 +28,7 @@ check rviz folder without flying -  for green zone\
 change 2 params in rqt to set the tuning for safe landing\
 
 ### Simulation Demo:-
-<img src="https://github.com/Garuda-IIITH-RRC/Autonomous_Safe_Landing_Drone_Simulation/blob/master/land_simulation.gif" width="1000" height="300">
+<img src="https://github.com/somilm/AUTONOMOUS-SAFE-LANDING-OF-DRONE/blob/master/land_simulation.gif" width="1000" height="300">
 
 ### Youtube links:-
 
