@@ -27,10 +27,6 @@ set  COM_OBS_AVOID = 1 in QGC parameters\
 check rviz folder without flying -  for green zone\
 change 2 params in rqt to set the tuning for safe landing\
 
-### Simulation Demo:-
-<img src="https://github.com/somilm/AUTONOMOUS-SAFE-LANDING-OF-DRONE/blob/master/land_simulation.gif" width="1000" height="300">
 
-### Youtube links:-
 
-[![](https://img.youtube.com/vi/377WQKVdjBY/0.jpg)](https://www.youtube.com/watch?v=377WQKVdjBY)\
-[![](https://img.youtube.com/vi/IrvUYQut9FI/0.jpg)](https://www.youtube.com/watch?v=IrvUYQut9FI)
+
